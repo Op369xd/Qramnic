@@ -1,15 +1,15 @@
 # Qramnic
 FROM teamvaders/hellbot:latest
 
-#clonning repo 
-RUN git clone https://github.com/TheVaders/InVade.git /root/hellbot
+#Qramnic the secret coder
+To pe pausred by [Luze sec] community
 
 #working directory 
-WORKDIR /root/hellbot
+WORKDIR /root/Qramnic 
 
 # Install requirements
-RUN pip3 install -U -r requirements.txt
+Rnd
 
-ENV PATH="/home/userbot/bin:$PATH"
+ENV PATH= RND Runing......deep consol apt updated
 
-CMD ["python3","-m","hellbot"]
+CMD ["python3" Qramnic Alt traaf try.in
